@@ -72,10 +72,10 @@ const Footer = () => {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2023
-                        <a href="https://chess.com/" className="hover:underline">
-                            <strong>Chess</strong>
+                        <a href="https://randomWebsite.com/" className="hover:underline">
+                            <strong>WebsiteName</strong>
                         </a>
-                        . Click to Play.
+                        . Click for More.
                     </span>
                     <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
                         <Link to="#" className="text-gray-500 hover:text-gray-900">
